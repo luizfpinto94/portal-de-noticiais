@@ -1,19 +1,6 @@
-/* utilities class */
-.grid {
-    display: grid;
-}
-
-.grid-flow-col {
-    grid-auto-flow: column;
-}
-
-.container {
-    margin-inline: auto;
-    max-width: 1280px;
-    padding-inline: 32px;
-}
-
 /* Menus, one e two */
+
+/* CSS nesting */
 #primary {
     padding-block: 20px;
 

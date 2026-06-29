@@ -45,3 +45,20 @@ a:hover {
     color: var(--brand-color-light);
 }
 
+.container {
+    margin-inline: auto;
+    max-width: 1280px;
+    padding-inline: 32px;
+}
+
+main {
+    margin-top: 40px;
+}
+
+.content-tag {
+    border-radius: 4px;
+    background-color: var(--brand-color-dark);
+    font: 400 10px/4% var(--font-family);
+    padding: 4px 8px;
+    text-transform: uppercase;
+}
