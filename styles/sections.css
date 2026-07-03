@@ -1,3 +1,9 @@
+section header {
+    border-top: 1px solid var(--stroke-color);
+    padding-block: 12px 24px;
+    font: var(--text-span);
+}
+
 #featured {
     img {
         border-radius: 4px;
@@ -33,4 +39,40 @@
             }
         }
     }
+}
+
+#weekly {
+
+    header a {
+        justify-self: end;
+        align-items: center;
+    }
+
+    & > div {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+
+     img {
+        height: 160px;
+    }
+
+    figure {
+        position: relative;
+
+        .content-tag {
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            padding: 10px;
+        }
+
+        p {
+            margin-top: 8px;
+            font-weight: 800;
+        }
+    }
+
+
+    
 }
