@@ -44,9 +44,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-**Tevelgram | Página de viagens**, para amantes de viagens pelo mundo e conhecendo novos lugares incriveis.
+**Portal de notícias | Tech News**, para apaixonados por tecnologia e novidades do mundo tech.
 
-Exemplo: Desenvolvido com foco em interface, a página web representa uma interface de um sistema de viagens onde os usuários podem publicar lugares que visitou.
+Exemplo: Desenvolvido com foco em interface, a página web representa uma sistema de portal de notícias para os usuários ficar por dentro do que rola no mundo tech. Proposta, trazer armonia e organização de layout mais complexo.
 
 ### Como rodar o projeto
 
