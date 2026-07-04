@@ -54,6 +54,13 @@ a:hover {
 main {
     margin-top: 40px;
     gap: 80px;
+
+    grid-template-columns: 2fr 1.5fr;
+
+    grid-template-areas: 
+    "featured featured"
+    "weekly weekly"
+    "ia aside";
 }
 
 .content-tag {
